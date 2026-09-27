@@ -50,8 +50,6 @@ The sample was a financially-motivated ICEDID banker/loader distributed by threa
 ### Verified completion
 Lab completed on CyberDefenders — [IcedID Blue Team CTF achievement](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/nsandile560/icedid/)
 
-### Screenshots
-`[Insert: VirusTotal Details/Names view, Dropped Files list with 3003[1].gif highlighted, Contacted Domains/Registrar table, MITRE ATT&CK TA551 page, sandbox Malware Config extract]`
 
 ---
 
