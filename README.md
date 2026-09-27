@@ -23,9 +23,6 @@ Port 80 traffic was confirmed as legitimate Windows Update, Microsoft Delivery O
 ### Skills demonstrated
 `Wireshark (stream following, HTTP object export, I/O graphs)` · `TCP/IP fundamentals` · `Distinguishing benign vs. anomalous traffic patterns` · `Evidence-based investigative conclusions`
 
-### Screenshots
-`[Insert: Follow TCP Stream view of stream 94, HTTP object export list, tcp.analysis.flags filtered view, I/O graph]`
-
 ---
 
 ## 2. ICEDID Malware Investigation (CyberDefenders)
